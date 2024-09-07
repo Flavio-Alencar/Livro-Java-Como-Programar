@@ -1,4 +1,4 @@
-//Exemplo 01 - Capítulo 01
+//Exemplo 01 - Capítulo 04
 //Figura 4.4
 //Métodos if - else
 //Classe Account com uma variável de instância balance do tipo double e um construtor
